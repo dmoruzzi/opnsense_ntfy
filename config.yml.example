@@ -1,0 +1,10 @@
+servers:
+    primary:
+        token: tk_DbVCPrL6azp3FpKJAEspEX9crBLRM
+        ntfy_server: https://ntfy.example.com/opnsense
+    secondary:
+        token: ""
+        ntfy_server: https://ntfy.sh/opnsense
+last_seen_id: ""
+feed_url: https://forum.opnsense.org/index.php?board=11.0&action=.xml
+refresh_interval: 6h
